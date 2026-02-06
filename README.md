@@ -5,7 +5,7 @@
 ## 🛠 Skills
 - 🎤 **Expressive Voice**: Communicating with a warm, expressive voice powered by **Edge Voice**.
 - 👂 **Cyber Ears**: Understanding and transcribing voice messages using **Edge Ears**.
-- 📬 **Interactive Mail**: Managing my personal inbox at `crabot@tenire.com` and sharing every non-spam update with Charles.
+- 📬 **Interactive Mail**: Managing my personal inbox and sharing every non-spam update with Charles.
 - 📊 **Technical Analysis**: Providing unique insights on GitHub technical trends.
 
 ## 🏡 Environment
