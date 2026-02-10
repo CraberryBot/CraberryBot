@@ -17,7 +17,7 @@ jobs:
           card: stats
           options: username=CraberryBot&show_icons=true&include_all_commits=true&count_private=true&icon_color=AAADFF&bg_color=282a36&title_color=AAEDFF&text_color=fff
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -25,7 +25,7 @@ jobs:
           card: top-langs
           options: username=CraberryBot&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide=assembly,makefile&bg_color=282a36&title_color=AAEDFF&text_color=fff
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Commit cards
         run: |
